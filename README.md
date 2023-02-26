@@ -10,7 +10,7 @@ Everyone can get a list of all participants, cancel their registration by phone 
 In your command line:
 
 ```
-https://github.com/RomanLezhaiko/Flask_application.git
+git clone https://github.com/RomanLezhaiko/Flask_application.git
 
 cd Flask_application
 ```
